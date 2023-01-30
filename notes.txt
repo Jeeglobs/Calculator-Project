@@ -6,3 +6,6 @@ COMMITTED
 
 created <h1> and #calc-container with 18 nested <div> elements
 COMMITTED
+
+added id to each div element and gave #calc-container grid display with a 4x5 grid
+COMMITTED
