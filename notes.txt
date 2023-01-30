@@ -1,2 +1,5 @@
 created index.html, main.css, main.js and notes.txt
 COMMITTED
+
+linked main.css and main.js to index.html
+COMMITTED
