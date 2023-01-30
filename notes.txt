@@ -3,3 +3,6 @@ COMMITTED
 
 linked main.css and main.js to index.html
 COMMITTED
+
+created <h1> and #calc-container with 18 nested <div> elements
+COMMITTED
