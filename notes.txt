@@ -21,3 +21,6 @@ COMMITTED
 
 used flexbox to center 'text' of each button horizontally and vertically
 COMMITTED
+
+cleaned up grid css for each 'button'
+COMMITTED
