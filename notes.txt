@@ -9,3 +9,6 @@ COMMITTED
 
 added id to each div element and gave #calc-container grid display with a 4x5 grid
 COMMITTED
+
+assigned 'grid-coordinates' to each 'button' with css
+COMMITTED
