@@ -18,3 +18,6 @@ COMMITTED
 
 centered h1 and #calc-container, added width and height to #calc-container
 COMMITTED
+
+used flexbox to center 'text' of each button horizontally and vertically
+COMMITTED

@@ -153,6 +153,9 @@ h1 {
     background-color: #B2B1CF;
 }
 
-.number, .operation, #equal, #clear, #output {
+.number, .operation, #output {
     font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
