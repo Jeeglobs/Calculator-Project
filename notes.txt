@@ -24,3 +24,6 @@ COMMITTED
 
 cleaned up grid css for each 'button'
 COMMITTED
+
+changed the colors of the 'buttons'
+COMMITTED
