@@ -15,3 +15,6 @@ COMMITTED
 
 gave each 'button' color using css
 COMMITTED
+
+centered h1 and #calc-container, added width and height to #calc-container
+COMMITTED

@@ -1,11 +1,19 @@
 * {
     border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
 }
 
 #calc-container {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 20% 20% 20% 20% 20%;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
 }
 
 #zero {
@@ -143,4 +151,8 @@
 
 .operation {
     background-color: #B2B1CF;
+}
+
+.number, .operation, #equal, #clear, #output {
+    font-size: 2.5rem;
 }
