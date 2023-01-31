@@ -118,6 +118,7 @@
     grid-column-end: 4;
     grid-row-start: 5;
     grid-row-end: 6;
+    background-color: #8BEA86;
 }
 
 #clear {
@@ -125,6 +126,7 @@
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 2;
+    background-color: #FF855C;
 }
 
 #output {
@@ -132,4 +134,13 @@
     grid-column-end: 5;
     grid-row-start: 1;
     grid-row-end: 2;
+    background-color: #E1F2FE;
+}
+
+.number {
+    background-color: #98D2EB;
+}
+
+.operation {
+    background-color: #B2B1CF;
 }

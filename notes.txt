@@ -12,3 +12,6 @@ COMMITTED
 
 assigned 'grid-coordinates' to each 'button' with css
 COMMITTED
+
+gave each 'button' color using css
+COMMITTED
