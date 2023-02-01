@@ -92,6 +92,12 @@ h1 {
     grid-area: 1/2/2/5;
     background-color: #BCF4F5;
     font-size: 1.8rem;
+/* below copied from .button and .button#output */
+    /* border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem; */
 }
 
 .number {
@@ -104,6 +110,10 @@ h1 {
 
 .button {
     font-size: 2.5rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .button, #output {
