@@ -4,6 +4,16 @@ console.log('linked');
 const display = document.querySelector('#output');
 const buttons = document.querySelectorAll('.button');
 
+// operators
+const plus = document.querySelector('#add');
+const minus = document.querySelector('#subtract');
+const times = querySelector('#multiply');
+const divideBy = querySelector('#divide');
+
+// clear-button and equals-button
+const calculate = document.querySelector('#equal');
+const clearDisplay = document.querySelector('#clear');
+
 
 const fullDisplay = [];
 
@@ -15,3 +25,4 @@ for (let button of buttons) {
         display.innerText = fullDisplay.join("");
     })
 }
+

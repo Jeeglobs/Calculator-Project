@@ -39,3 +39,6 @@ COMMITTED
 
 made output flex-end
 COMMITTED
+
+made operaters, clear-button and equals-button in JS but I get some error messages
+COMMITTED
