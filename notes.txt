@@ -30,3 +30,6 @@ COMMITTED
 
 started working on JS, made display, buttons and numbers, many errors--I'm confused
 COMMITTED
+
+got buttons to click and show innerText in console
+COMMITTED

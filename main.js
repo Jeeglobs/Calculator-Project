@@ -1,17 +1,14 @@
 console.log('linked');
 
-let display = document.querySelector('#output');
+const display = document.querySelector('#output');
 // console.log(display);
 
-let buttons = document.querySelectorAll('.button');
-buttons.addEventListener('click', function(event) {
-    console.log(event.target.innerText)
-    // i thought this would put innertext in console log when clicked, but did not work
-})
+const buttons = document.querySelectorAll('.button');
+// console.log(buttons);
 
-let numbers = document.querySelectorAll('.number');
-// console.log(numbers);
-numbers.addEventListener('click', function() {
-    alert("number clicked");
-    // Uncaught TypeError: numbers.addEventListener is not a function
-});
+for (let button of buttons) {
+    button.addEventListener('click', function (event) {
+        console.log(event.target.innerText)
+        // let buttonValue = event.target.innerText
+    })
+}
