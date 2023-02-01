@@ -27,3 +27,6 @@ COMMITTED
 
 changed the colors of the 'buttons'
 COMMITTED
+
+started working on JS, made display, buttons and numbers, many errors--I'm confused
+COMMITTED
