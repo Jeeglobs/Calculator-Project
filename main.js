@@ -7,8 +7,8 @@ const buttons = document.querySelectorAll('.button');
 // operators
 const plus = document.querySelector('#add');
 const minus = document.querySelector('#subtract');
-const times = querySelector('#multiply');
-const divideBy = querySelector('#divide');
+const times = document.querySelector('#multiply');
+const divideBy = document.querySelector('#divide');
 
 // clear-button and equals-button
 const calculate = document.querySelector('#equal');

@@ -42,3 +42,6 @@ COMMITTED
 
 made operaters, clear-button and equals-button in JS but I get some error messages
 COMMITTED
+
+fixed error messages
+COMMITTED
