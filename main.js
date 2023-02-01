@@ -1,14 +1,17 @@
 console.log('linked');
 
+// display and buttons
 const display = document.querySelector('#output');
-// console.log(display);
-
 const buttons = document.querySelectorAll('.button');
-// console.log(buttons);
+
+
+const fullDisplay = [];
 
 for (let button of buttons) {
     button.addEventListener('click', function (event) {
-        console.log(event.target.innerText)
-        // let buttonValue = event.target.innerText
+        let input = event.target.innerText;
+        // console.log(input);
+        fullDisplay.push(input);
+        display.innerText = fullDisplay.join("");
     })
 }

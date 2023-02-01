@@ -33,3 +33,6 @@ COMMITTED
 
 got buttons to click and show innerText in console
 COMMITTED
+
+buttons now click and show in display
+COMMITTED
