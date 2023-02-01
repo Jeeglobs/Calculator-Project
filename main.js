@@ -16,7 +16,7 @@ const calculate = document.querySelector('#equal');
 const clearDisplay = document.querySelector('#clear');
 
 
-const fullDisplay = [];
+let fullDisplay = [];
 
 for (let button of buttons) {
     button.addEventListener('click', function (event) {
@@ -36,4 +36,5 @@ calculate.addEventListener('click', function(event) {
 
 clearDisplay.addEventListener('click', function(event) {
     display.innerText = "";
+    fullDisplay = [];
 })

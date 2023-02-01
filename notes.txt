@@ -45,3 +45,9 @@ COMMITTED
 
 fixed error messages
 COMMITTED
+
+made clear and equals operational
+COMMITTED
+
+made clear actually clear the display
+COMMITTED
