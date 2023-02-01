@@ -46,7 +46,7 @@ COMMITTED
 fixed error messages
 COMMITTED
 
-made clear and equals operational
+made clear and equals functional is JS
 COMMITTED
 
 made clear actually clear the display

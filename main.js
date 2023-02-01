@@ -30,8 +30,10 @@ for (let button of buttons) {
 calculate.addEventListener('click', function(event) {
     // make clicking 'equals' evaluate expression in the display
     let answer = eval(display.innerText);
-    console.log(answer);
+    // console.log(answer);
     display.innerText = answer;
+    // below: lets you continue to do math with the previous answer
+    fullDisplay = [answer];
 })
 
 clearDisplay.addEventListener('click', function(event) {
