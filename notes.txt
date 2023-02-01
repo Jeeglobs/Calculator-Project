@@ -36,3 +36,6 @@ COMMITTED
 
 buttons now click and show in display
 COMMITTED
+
+made output flex-end
+COMMITTED
