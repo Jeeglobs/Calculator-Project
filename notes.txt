@@ -51,3 +51,6 @@ COMMITTED
 
 made clear actually clear the display
 COMMITTED
+
+made it so that after you evaluate, you can continue to do math with the previous answer
+COMMITTED
